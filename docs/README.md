@@ -1,4 +1,4 @@
-# [DEV.DONOTKNOW>TK](https://dev.donotknow.tk)
+# [DEV.DONOTKNOW.TK](https://dev.donotknow.tk)
 
 ## What is [DNK](https://donotknow.tk)?
 DNK is a web-project designed to make the web more accessible to everyone, while respecting their privacy and financial restrictions. Every thing that DNK provides is **FREE** and allows for **complete anonymity**, although you do need to smart about that yourself. DNK can be self-hosted for added privacy, and it's package gets larger every day. (Or week, or month).
