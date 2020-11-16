@@ -10,19 +10,19 @@ DNK is a web-project designed to make the web more accessible to everyone, while
  - All are easy to install and setup
 
 ### Can I get support with setting up?
-Yes you can! There is never any problem when it comes to supporting you guys. We are always happy to help. Most of it should be easy enough to install and configure, but of course some of it can be hard. To get support - go to [DNK//Chat](https://donotknow.tk/chat/) and send a direct message to @D. If you cannot figure out how to do that, just type `@D` into the post box followed by your question, and remember to include a way to contact you. Email perferably. 
+Yes you can! There is never any problem when it comes to supporting you guys. We are always happy to help. Most of it should be easy enough to install and configure, but of course some of it can be hard. To get support - go to [ChatterBox](https://chatterbox.tk) and send a direct message to @D. If you cannot figure out how to do that, just type `@D` into the post box followed by your question, and remember to include a way to contact you. Email perferably. 
 
 ## Background:
 So what we have are three things. DNK, TNN and COS.
 
 ### DNK (Do Not Know)
-DNK is the parent of it all. The DNK community hosts all the other two, and welcomes everyone into it. DNK is focused on accessibility and freedom. It's that simple. You are welcome to contact D, Nemo, or Curious @ [the chat](https://donotknow.tk/chat/) if you have any questions at all regarding yourself and the internet.
+DNK is the parent of it all. The DNK community hosts all the other two, and welcomes everyone into it. DNK is focused on accessibility and freedom. It's that simple. You are welcome to contact D, Nemo, or Curious @ [the chat](https://chatterbox.tk) if you have any questions at all regarding yourself and the internet.
 
 ### TNN (The Null Network)
 The Null Network is a small network of users of DNK dedicated to moderating and building it. The Null Network currently consists of @D @Nemo @Curious @JMax @arco @tonc @ATOM. These users are helped by Senior Members, currently @TILTER @simone @Anton @CtrlAltDel.
 
 ### COS (Collection Of Spaces)
-The Collection Of Spaces refers to the multi-media platform that the admins (D | Curious | Nemo) created. We call it an extranet, and our'extranet' project will be open-sourced soon... read [COS.md](cos.md) for more inforation. :)
+The Collection Of Spaces refers to the multi-media platform that the admins (D | Curious | Nemo) created. We call it an extranet, and our 'extranet' project will be open-sourced soon... read [COS.md](cos.md) for more inforation. :)
 
 ## Other Software:
 Here are some of the services that DNK recommend. Always stick to the licence each project holds...
